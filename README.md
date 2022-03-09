@@ -1,2 +1,2 @@
 # Masked-Face-Recognition-NN
-![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
+![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CNN%20Result.jpg?raw=true "Employee Data title")
