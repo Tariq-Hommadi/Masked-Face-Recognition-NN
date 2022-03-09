@@ -1,5 +1,4 @@
 # Masked-Face-Recognition-NN
-![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CNN%20Result.jpg?raw=true "Employee Data title")
 
 #Masked-Face recognition
 
@@ -46,6 +45,8 @@ applies triplet-loss to do embedding, then we classify using SVM.
 These our architectures:
 
 1- Classic CNN
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/classic%20CNN.jpg?raw=true "Employee Data title")
 
 2- Transfer Learning (VGG16)
