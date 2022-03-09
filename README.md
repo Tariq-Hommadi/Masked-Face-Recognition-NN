@@ -49,38 +49,72 @@ These our architectures:
 
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/classic%20CNN.jpg?raw=true "Employee Data title")
 
+
+
 2- Transfer Learning (VGG16)
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/Transfer%20learning.jpg?raw=true "Employee Data title")
 
+
+
 3- CNN-RNN
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CNN-RNN.jpg?raw=true "Employee Data title")
 
+
+
 4- Facenet-SVM
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/FaceNet-SVM.jpg?raw=true "Employee Data title")
 
 Experimental Results
 
 1- Classic CNN
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CNN%20Result.jpg?raw=true "Employee Data title")
 
+
+
 2- Transfer Learning (VGG16)
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/Transfer%20learning%20Result.jpg?raw=true "Employee Data title")
 
+
+
 3- CNN-RNN
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CNN-RNN%20Result.jpg?raw=true "Employee Data title")
 
+
+
 4- Facenet-SVM
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/FaceNet-SVM%20Result.jpg?raw=true "Employee Data title")
 
 
 #Results Analysis
 
 some of correct results:
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CR1.jpg?raw=true "Employee Data title")
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/CR2.jpg?raw=true "Employee Data title")
 
+
+
 some of Incorrect results:
+
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/ICR1.jpg?raw=true "Employee Data title")
+
 ![Employee data](https://github.com/Tariq-Hommadi/NN/blob/main/ICR2.jpg?raw=true "Employee Data title")
 
 #Possible error sources:
